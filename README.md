@@ -18,6 +18,8 @@ https://github.com/renovatebot/renovate/discussions/36508
 │   └── use-catalog
 │       ├── package.json  // uses zod with catalog
 │       └── pnpm-lock.yaml
+├── .node-version
+├── .npmrc  // shared-workspace-lockfile = false
 ├── package.json  // uses zod with catalog
 ├── pnpm-lock.yaml
 ├── pnpm-workspace.yaml  // zod version defined via catalog
