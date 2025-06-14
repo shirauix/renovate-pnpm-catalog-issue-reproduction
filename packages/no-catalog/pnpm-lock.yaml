@@ -1,0 +1,24 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      husky:
+        specifier: 9.0.3
+        version: 9.0.3
+
+packages:
+
+  husky@9.0.3:
+    resolution: {integrity: sha512-MNRluWx5bvZ2Ft2Z9ni5KZAgNFrQSM4LKvEtTJVKTjGRqliI1CeWv8HWnPXfM+4snOaU04bb7IU2u6TPDb8ROw==}
+    engines: {node: '>=18'}
+    hasBin: true
+
+snapshots:
+
+  husky@9.0.3: {}

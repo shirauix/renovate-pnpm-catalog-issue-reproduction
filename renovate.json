@@ -1,0 +1,7 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", ":pinAllExceptPeerDependencies"],
+  "lockFileMaintenance": { "enabled": true },
+  "prHourlyLimit": 0,
+  "minimumReleaseAge": "365 days"
+}

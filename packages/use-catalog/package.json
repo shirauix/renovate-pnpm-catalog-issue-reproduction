@@ -1,0 +1,11 @@
+{
+  "name": "no-catalog",
+  "private": true,
+  "engines": {
+    "node": "22.13.1"
+  },
+  "packageManager": "pnpm@10.6.3",
+  "dependencies": {
+    "zod": "catalog:"
+  }
+}
